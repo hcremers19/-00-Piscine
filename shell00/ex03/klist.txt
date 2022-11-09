@@ -1,0 +1,6 @@
+Credentials cache: API:D33D8D92-5E8F-4E3E-98E1-CBC9E03FB811
+        Principal: hcremers@S19.BE
+
+  Issued                Expires               Principal
+Jul  5 14:16:36 2021  Jul  6 00:16:36 2021  krbtgt/S19.BE@S19.BE
+Jul  5 14:16:37 2021  Jul  6 00:16:36 2021  HTTP/san-ssd.s19.be@S19.BE
